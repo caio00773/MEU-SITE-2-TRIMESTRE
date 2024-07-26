@@ -1,0 +1,17 @@
+.cabeçalho_menu-hamburguer{
+
+     width:24px;
+     height:24px;
+     background-image:url("../img/menu_black_24dp\ 1.svg");
+     display: flex;
+
+}
+
+
+.cabeçalho{ 
+    
+    background-color: var(--branco);
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+}
